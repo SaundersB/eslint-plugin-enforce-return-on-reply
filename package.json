@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-enforce-return-on-reply",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Enforce any fastify reply returns without sending additional responses.",
   "main": "index.js",
   "scripts": {
