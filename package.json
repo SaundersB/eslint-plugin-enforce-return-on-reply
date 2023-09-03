@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-enforce-return-on-reply",
+  "version": "1.0.0",
+  "description": "Enforce any fastify reply returns without sending additional responses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SaundersB/eslint-plugin-enforce-return-on-reply.git"
+  },
+  "keywords": [
+    "fastify"
+  ],
+  "author": "Brandon Saunders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaundersB/eslint-plugin-enforce-return-on-reply/issues"
+  },
+  "homepage": "https://github.com/SaundersB/eslint-plugin-enforce-return-on-reply#readme",
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  }
+}
